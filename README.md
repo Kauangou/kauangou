@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou Kauan👋
 
-<!--
-**Kauangou/kauangou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante do curso de Ciência da Computação (6° período)
+- 👨‍💻 Desenvolvedor de software junior na [Ecxus Tecnologia](https://ecxus.com.br/)
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,css,nodejs,nestjs,git,idea,vscode)](https://skillicons.dev)
+
+## 📫 Como me encontra
+
+- [LinkedIn](https://www.linkedin.com/in/kauan-gouveia-30006b259)
+- [Email](mailto:kauan.ogouveia@gmail.com)
