@@ -5,9 +5,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,css,nodejs,nestjs,git,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,css,nodejs,git,idea,vscode)](https://skillicons.dev)
 
-## 📫 Como me encontra
+## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/kauan-gouveia-30006b259)
 - [Email](mailto:kauan.ogouveia@gmail.com)
