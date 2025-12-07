@@ -1,6 +1,6 @@
 ## Olá, eu sou Kauan👋
 
-- 🎓 Estudante do curso de Ciência da Computação (6° período)
+- 🎓 Estudante do curso de Ciência da Computação (7° período)
 - 👨‍💻 Desenvolvedor de software junior na [Ecxus Tecnologia](https://ecxus.com.br/)
 
 ## 🛠️ Tecnologias e Ferramentas
